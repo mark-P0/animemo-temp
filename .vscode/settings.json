@@ -1,0 +1,8 @@
+{
+  "eslint.experimental.useFlatConfig": true,
+  "eslint.options": {
+    /* https://github.com/microsoft/vscode-eslint/issues/1518#issuecomment-1352281966
+     */
+    "overrideConfigFile": "eslint.config.cjs"
+  }
+}
